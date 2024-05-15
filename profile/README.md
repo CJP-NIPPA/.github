@@ -5,6 +5,6 @@ Esta organización está diseñada para poder crear un historial de los proyecto
 In order to contribute to each project, keep in mind the standardized abstractions set at [this repository](https://github.com/CJP-NIPPA/standardized-scheme)
 
 ## Social media
-- [Instagram]()
-- [Facebook]()
+- [Instagram](https://www.instagram.com/colegiojaponesparaguayo)
+- [Facebook](https://www.facebook.com/p/CJP-Colegio-Japon%C3%A9s-Paraguayo-100063632257410/?paipv=0&eav=Afan6-k6epKJuY0b_T_8IB6xhTBfefI1Gjfc-FMPca9rWLWrkHAepAcPXIcVrAmXimI&_rdr)
 
